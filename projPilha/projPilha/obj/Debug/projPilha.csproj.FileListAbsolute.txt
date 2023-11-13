@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projPilha\projPilha\bin\Debug\projPilha.exe.config
+C:\Users\aluno\source\repos\projPilha\projPilha\bin\Debug\projPilha.exe
+C:\Users\aluno\source\repos\projPilha\projPilha\bin\Debug\projPilha.pdb
+C:\Users\aluno\source\repos\projPilha\projPilha\obj\Debug\projPilha.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projPilha\projPilha\obj\Debug\projPilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projPilha\projPilha\obj\Debug\projPilha.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projPilha\projPilha\obj\Debug\projPilha.exe
+C:\Users\aluno\source\repos\projPilha\projPilha\obj\Debug\projPilha.pdb
